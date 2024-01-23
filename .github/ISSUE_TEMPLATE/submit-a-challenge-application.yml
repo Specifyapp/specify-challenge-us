@@ -31,6 +31,5 @@ body:
     attributes:
       label: Output file content
       description: What content do you expect in your developement environement ?
-      value: ""
     validations:
       required: true
