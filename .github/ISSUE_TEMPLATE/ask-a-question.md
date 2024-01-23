@@ -1,3 +1,4 @@
+---
 name: "Ask a question"
 about: "Ask a question about the challenge"
 title: "Question about [your-topic]"
@@ -11,3 +12,4 @@ body:
       description: "What do you want to ask about the challenge?"
     validations:
       required: true
+---
