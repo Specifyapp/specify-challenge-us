@@ -1,7 +1,7 @@
 name: New submission
 description: File a submission template for Specify team.
 title: Challenge from [your-company-name]
-labels: "✨ New"
+labels: "✨ New output"
 assignees: annawillems, ChucKN0risK, nclsndr
 body:
   - type: markdown
@@ -14,8 +14,8 @@ body:
       label: Design to code process
       description: Can you describe the design to code process you'd like to handle?
       value: |
-        On the design side, we use Figma...
-        On the frontend side, we expect the design tokens to be delivered...
+        On the design side, our tokens are defined as Figma Styles, Figma Variables, or in Tokens Studio...
+        On the frontend side, we expect the design tokens to be delivered in the following languages (CSS, JS, Flutter...) for the following platforms/frameworks (React, React Native, Radix...)
     validations:
       required: true
   - type: input
@@ -30,6 +30,6 @@ body:
     id: file-content
     attributes:
       label: Output file content
-      description: What content do you expect in your developement environement ?
+      description: What content do you expect in your development environment ?
     validations:
       required: true
