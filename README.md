@@ -12,4 +12,4 @@ Gather your team and fill [a new issue](https://github.com/Specifyapp/specify-ch
 We will update statuses on the issues regularly. Every 2 weeks we will share the output and a video of how to produce it. 
 
 ### Any questions?
-Please join our [discord channel](https://discord.gg/CV4UWcH6) and ask your question in the #Specify-challenge-us channel. 
+Please join our [Discord server](https://discord.gg/CV4UWcH6) and ask your question in the [#specify-challenge-us channel](https://discord.com/channels/796155056621748235/1199713772307226716). 
