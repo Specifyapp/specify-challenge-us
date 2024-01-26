@@ -8,7 +8,7 @@ If you are performing many manual actions, or not sure if your workflow between 
 
 ### How to participate?
 
-Gather your team and fill [a new issue](https://github.com/Specifyapp/specify-challenge-us/issues/new).
+Gather your team and fill [a new issue](https://github.com/Specifyapp/specify-challenge-us/issues/).
 We will update statuses on the issues regularly. Every 2 weeks we will share the output and a video of how to produce it. 
 
 ### Any questions?
