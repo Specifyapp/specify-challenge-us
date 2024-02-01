@@ -1,0 +1,29 @@
+{
+  "name": "specify-challenge-us",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "repository": "git@github.com:Specifyapp/specify-challenge-us.git",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "eval": "tsc && node --env-file=.env dist/index.js"
+  },
+  "dependencies": {
+    "@specifyapp/node-utils": "^1.0.0-beta.1",
+    "@specifyapp/sdk": "^1.0.0-beta.1",
+    "@specifyapp/specify-design-token-format": "^1.0.0",
+    "change-case": "^5.4.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "prettier": "^3.2.4",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=20.6"
+  },
+  "volta": {
+    "node": "20.7.0"
+  }
+}
